@@ -1,24 +1,36 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# お薬マネジメント
 
-Things you may want to cover:
+## サイト概要
+### サイトテーマ
+お薬やサプリメントの管理・飲み忘れ防止アプリ
 
-* Ruby version
+### テーマを選んだ理由
+以前私は２年程祖父の介護をしておりました。認知症をはじめいくつか病気を患っていたので、薬の種類や組み合わせが複雑でした。
+そのため私が薬の管理をしてましたが、仕事や介護をしながらだと管理が行き届かず忘れることもありました。
+そこでお薬の情報管理だけでなく、設定した時間に薬を飲んでいなければ、自分以外にも通知が届くサービスがあれば便利だと考えました。
+お薬だけでなく、サプリメントなど定期的に忘れず飲みたいものにも活用できると考え、このテーマにしました。
 
-* System dependencies
+### ターゲットユーザ
+- 介護をしている人
+- 持病がある人とその家族
 
-* Configuration
+### 主な利用シーン
+- 薬の情報を保存したい時
+- 薬の情報を確認したい時
+- 薬を定期的に服用する時
 
-* Database creation
+## 設計書
+<...>
 
-* Database initialization
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* How to run the test suite
+## 使用素材
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 実務機能リスト
+https://docs.google.com/spreadsheets/d/1x0SO6cUThLV3e-W4QReYYYbxmlmn8TaQ0P5SkRK_Iak/edit?usp=sharing
